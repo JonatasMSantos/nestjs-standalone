@@ -21,3 +21,7 @@ import { BullModule } from '@nestjs/bull';
   ],
 })
 export class AppModule {}
+
+/**
+ * forRoot() or forFeature()
+ */
